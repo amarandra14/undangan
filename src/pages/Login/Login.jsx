@@ -37,7 +37,7 @@ const BoxForm = styled(Box)`
 
 const Login = () => {
   return (
-    <BgImage sx={{}}>
+    <BgImage>
       <BoxForm>
         <Form onSubmit="submit">
         <Typography variant="h4" component="h1" mb={3}>
